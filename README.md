@@ -8,7 +8,3 @@ conda env create -f environment.yml
 conda activate nlp
 pip install -e .
 ```
-
-## Additional Notes
-1. Example datasets can be found [here](https://github.com/magarveylab/PredaconDatasets2.0).
-2. Example training scripts can be found [here](https://github.com/magarveylab/BaryonPredacons).
